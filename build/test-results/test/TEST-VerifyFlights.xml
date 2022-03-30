@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VerifyFlights" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-29T16:54:49" hostname="ZSRIL-22DDN13" time="74.37">
+  <properties/>
+  <testcase name="verifyRoundTrip" classname="VerifyFlights" time="5.904"/>
+  <testcase name="verifyFlights" classname="VerifyFlights" time="57.995"/>
+  <testcase name="verifyMaxPriceSet" classname="VerifyFlights" time="10.462"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 11088
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Mar 29, 2022 10:24:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
